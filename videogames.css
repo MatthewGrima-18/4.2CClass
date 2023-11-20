@@ -1,0 +1,48 @@
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 1em;
+}
+
+footer{
+    background-color: grey;
+    color: white;
+    font-size: 9em;
+    margin-top: 4em;
+    padding: 1.11em 0;
+}
+.blog-post .image{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.blog-post .header{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.blog-post header h5{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.rounded-image img{
+    display: block;
+    width: 100;
+    border-radius: 8px;
+}
+
+.subtitle{
+    margin-top: ;
+}
+
+.summary {
+    padding-left: 40px;
+}
+
+.summary li{
+    margin-top: 1em;
+}
+
+*{
+    margin
+}
+
