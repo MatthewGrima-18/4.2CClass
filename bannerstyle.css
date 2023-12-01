@@ -1,0 +1,101 @@
+:root {
+    --nav-ctrl-color: black;
+    --nav-ctrl-size: 1.25rem;
+    --nav-ctrl-inner-size: 1rem;
+}
+
+.nav-dot {
+    border-color: var(--nav-ctrl-color);
+    border-radius: 100%;
+    border-style: solid;
+    border-width: 1px;
+    height: var(--nav-ctrl-size);
+    display: flex;
+    width: var(--nav-ctrl-size);
+    justify-content: center;
+}
+
+:root {
+    --nav-ctrl-color: #000;
+    --nav-ctrl-size:
+}
+
+.banner-content {}
+
+.banner-item {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 30%;
+    display: none;
+    
+}
+
+.banner-nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.nav-dot [
+    align
+]
+
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 1em;
+}
+
+footer{
+    background-color: grey;
+    color: white;
+    font-size: 9em;
+    margin-top: 4em;
+    padding: 1.11em 0;
+}
+.blog-post .image{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.blog-post .header{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.blog-post header h5{
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.rounded-image img{
+    display: block;
+    width: 100;
+    border-radius: 8px;
+}
+
+.subtitle{
+    margin-top: ;
+}
+
+.summary {
+    padding-left: 40px;
+}
+
+.summary li{
+    margin-top: 1em;
+}
+
+*{
+    
+}
+
+
+#bnr-1-ctrl:checked ~ .banner-content #banner-1,
+#bnr-2-ctrl:checked ~ .banner-content #banner-2,
+#bnr-3-ctrl:checked ~ .banner-content #banner-3 {
+    display: block;
+}
